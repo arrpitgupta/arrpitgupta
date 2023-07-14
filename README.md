@@ -8,9 +8,9 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ie1onREYZclBB1N4l5loVBZ_Cw9US07n/view?usp=sharing](https://drive.google.com/file/d/1ie1onREYZclBB1N4l5loVBZ_Cw9US07n/view?usp=sharing)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### Quote
+<p>“We don’t just build websites, we build websites that SELLS”
+― Dr. Chris Dayagdag</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
