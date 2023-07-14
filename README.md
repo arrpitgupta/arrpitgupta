@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arpit Gupta</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arrpitgupta" alt="arrpitgupta" /></a> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arrpitgupta&" alt="arrpitgupta" /></p>
+
+
 
 - 📫 How to reach me **arpit17200@gmail.com**
 
@@ -27,5 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arrpitgupta&show_icons=true&locale=en&layout=compact" alt="arrpitgupta" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arrpitgupta&show_icons=true&locale=en" alt="arrpitgupta" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arrpitgupta" alt="arrpitgupta" /></a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arrpitgupta&" alt="arrpitgupta" /></p>
