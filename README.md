@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arpit Gupta</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=hacker)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=arrpitgupta&theme=hacker)](https://git.io/streak-stats)
 
 
 - 📫 How to reach me **arpit17200@gmail.com**
