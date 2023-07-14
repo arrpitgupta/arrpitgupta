@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arpit Gupta</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arrpitgupta&" alt="arrpitgupta" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arrpitgupta&theme=react&hide_border=false" alt="arrpitgupta" /></p>
 
 
 
