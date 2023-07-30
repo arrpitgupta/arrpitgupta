@@ -6,7 +6,6 @@
 
 - 📫 How to reach me **arpit17200@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ie1onREYZclBB1N4l5loVBZ_Cw9US07n/view?usp=sharing](https://drive.google.com/file/d/1ie1onREYZclBB1N4l5loVBZ_Cw9US07n/view?usp=sharing)
 
 ### Quote
 <p>“We don’t just build websites, we build websites that SELLS”
@@ -17,7 +16,6 @@
 <a href="https://dev.to/arrpitgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arrpitgupta" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arpit-gupta-0a75a2227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpit-gupta-0a75a2227" height="30" width="40" /></a>
 <a href="https://instagram.com/iam_arrrpit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_arrrpit" height="30" width="40" /></a>
-<a href="https://medium.com/@arpit17200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arpit17200" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/arpit17200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arpit17200" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/tBesFp8BNN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/tBesFp8BNN" height="30" width="40" /></a>
 </p>
@@ -27,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arrpitgupta&show_icons=true&locale=en&layout=compact" alt="arrpitgupta" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arrpitgupta&show_icons=true&locale=en" alt="arrpitgupta" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arrpitgupta" alt="arrpitgupta" /></a> </p>
+
+
 
