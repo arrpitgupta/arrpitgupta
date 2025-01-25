@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Arpit</h1> <h3 align="center">A Passionate Frontend Developer 🚀</h3> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=arrpitgupta&theme=black-ice&hide_border=true&stroke=0000&background=0a0c10" alt="GitHub streak stats"> </p>
+<h1 align="center">Hi 👋, I'm Arpit</h1><h3 align="center">
+  <a href="https://readme-typing-svg.herokuapp.com/demo/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=A+Passionate+Frontend+Developer!;Crafting+Clean+%26+Responsive+Interfaces!;Always+Learning+%26+Exploring+New+Tech!;Let's+Create+Something+Awesome!">
+  </a>
+</h3>
 
 
 
