@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arpit</h1><h3 align="center">
   <a href="https://readme-typing-svg.herokuapp.com/demo/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&weight=700&center=true&vCenter=true&width=700&lines=A+Passionate+Frontend+Developer!;Crafting+Clean+%26+Responsive+Interfaces!;Always+Learning+%26+Exploring+New+Tech!;Let's+Create+Something+Awesome!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&weight=700&center=true&vCenter=true&width=700&lines=A+Passionate+Fullstack+Developer!;Crafting+Clean+%26+Responsive+Interfaces!;Always+Learning+%26+Exploring+New+Tech!;Let's+Create+Something+Awesome!">
   </a>
 </h3>
 
