@@ -9,7 +9,7 @@
 🌟 About Me:
 - 👨‍💻 I specialize in frontend development with a passion for crafting clean, responsive, and user-friendly interfaces.
 - 📧 Reach me at arpit17200@gmail.com for collaborations or just to say hi!
-- 🌱 Currently learning Next.js, Node.js, MongoDB and diving deeper into TypeScript.
+- 🌱 Currently learning Next.js, Node.js, MongoDB, MySQL and diving deeper into TypeScript.
 
 
 
